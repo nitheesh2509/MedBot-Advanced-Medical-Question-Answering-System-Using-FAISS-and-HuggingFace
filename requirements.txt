@@ -1,10 +1,11 @@
 langchain==0.0.1
 faiss-cpu==1.7.3
-distutils
 numpy==1.24.3
 transformers==4.30.0
 torch==2.0.1
 requests==2.31.0
 pypdf
 flask
+setuptools
+wheel
 sentence-transformers==2.2.2
