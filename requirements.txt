@@ -1,5 +1,5 @@
 langchain
-langchain-community==0.0.28
+langchain-community==0.2.19
 pydantic==1.10.9
 faiss-cpu
 numpy
